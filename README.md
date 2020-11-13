@@ -1,1 +1,2 @@
-# ball-n-bin
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
